@@ -14,17 +14,23 @@ _All writing here is my own. AI is used only for proofreading._
 
 ### Probability & statistics
 
-- Concentration inequalities
+- Concentration inequality
 - Probability theory
 - Stochastic calculus
 
 ### Optimization
 
 - Convex optimization
-- [Optimal transport](https://github.com/kanghyeonz/Optimal-transport)
+- Optimal transport
 
 ### Learning theory
 
+- Regularization
 - Statistical learning theory
+
+## Machine learning
+
+- Ensemble method
+- Support vector machine
 
 ## Programming
