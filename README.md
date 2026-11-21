@@ -1,10 +1,22 @@
 Personal website: [Kanghyeon Kim](https://kzahner.com)
 
-# Applied mathematics
+# Notes
 
-## Optimization
+## Mathematics
+
+### Statistics
+
+- Concentration inequalities
+
+### Stochastic calculus
+
+### Optimization
 
 - Convex optimization
 - [Optimal transport](https://github.com/kanghyeonz/Optimal-transport)
 
-# Programming
+### Learning theory
+
+- Statistical learning theory
+
+## Programming
