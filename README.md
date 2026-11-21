@@ -2,15 +2,21 @@ Hey! I’m Kanghyeon, but you can call me Kang. I did my bachelor’s in compute
 
 # Notes
 
-All writing here is my own. AI is used only for proofreading.
+_All writing here is my own. AI is used only for proofreading._
 
 ## Mathematics
 
-### Statistics
+### Algebra
+
+### Analytics
+
+- Measure theory
+
+### Probability & statistics
 
 - Concentration inequalities
-
-### Stochastic calculus
+- Probability theory
+- Stochastic calculus
 
 ### Optimization
 
