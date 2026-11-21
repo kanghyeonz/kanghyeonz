@@ -20,8 +20,9 @@ _All writing here is my own. AI is used only for proofreading._
 
 ### Optimization
 
+- [Duality](notes/duality_(optimization).md)
 - Convex optimization
-- Optimal transport
+- [Optimal transport](notes/optimal_transport.md)
 
 ### Learning theory
 
