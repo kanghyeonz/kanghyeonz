@@ -1,10 +1,10 @@
 Personal website: [Kanghyeon Kim](https://kzahner.com)
 
-# Applied Mathematics
+# Applied mathematics
 
 ## Optimization
 
-- Convex Optimization
-- [Optimal Transport](https://github.com/kanghyeonz/Optimal-Transport)
+- Convex optimization
+- [Optimal transport](https://github.com/kanghyeonz/Optimal-transport)
 
 # Programming
